@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "SyIM3S+3sqCtJHwOfKJj74SrT2E0hS2O+r9hhj8LzBQ=",
+  "Source": "asp02",
+  "BasePath": "_content/asp02",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "asp02\\wwwroot",
+      "Source": "asp02",
+      "ContentRoot": "C:\\Users\\john.nguyen\\Desktop\\Tự học ASP NET CORE in 7 day\\asp02\\wwwroot\\",
+      "BasePath": "_content/asp02",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\john.nguyen\\Desktop\\Tự học ASP NET CORE in 7 day\\asp02\\wwwroot\\hello.html",
+      "SourceId": "asp02",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\john.nguyen\\Desktop\\Tự học ASP NET CORE in 7 day\\asp02\\wwwroot\\",
+      "BasePath": "_content/asp02",
+      "RelativePath": "hello.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\hello.html"
+    }
+  ]
+}
